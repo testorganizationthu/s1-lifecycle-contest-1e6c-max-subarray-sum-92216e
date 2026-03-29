@@ -2,5 +2,5 @@ folder: problem
 samples:
     - cases: '[1..4]'
 title:
-    en: Max Subarray Sum 92216e
+    en: Max Subarray Sum v2 aef2
 version: 2
